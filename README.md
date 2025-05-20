@@ -160,7 +160,7 @@ This project is structured to easily deploy on:
 ## 👨‍💻 Author
 
 Developed by **Thiago Simionato da Silva**, Senior Software Engineer  
-🇧🇷 Based in Brazil | 💼 Targeting international remote positions  
+🇧🇷 Based in Brazil 
 
 > Want to collaborate or hire? Feel free to open an issue or contact me on [LinkedIn](https://www.linkedin.com/in/thiago-simionato-da-silva-4b558ab2)
 

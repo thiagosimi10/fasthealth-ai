@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary
+sqlalchemy
+pydantic
+python-dotenv
+redis
+scikit-learn
+pytest
+pytest-asyncio
+redis[async]
+httpx[http2]>=0.26.0
+asyncpg
+debugpy
